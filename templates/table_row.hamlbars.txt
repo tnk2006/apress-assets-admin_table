@@ -1,0 +1,2 @@
+%tr.js-admin-table-row
+  %td.js-admin-table-cell
